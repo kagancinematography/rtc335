@@ -1,11 +1,11 @@
 # RTC 335: Cinematography
 
-This repository contains a simple static HTML page that serves as an index of external PDFs used in **RTC 335: Cinematography**.  
+This repository contains a simple static HTML page that serves as an index of external PDFs used in **RTC 335: Cinematography Course at Kadir Has University**.  
 
 The page provides quick access to course materials, including:
 - Exposure Quick Guide  
-- F-number overview  
-- Depth of Field reference  
+- F-number Paper
+- Depth of Field Paper
 
 ## 📜 License / Usage
 
